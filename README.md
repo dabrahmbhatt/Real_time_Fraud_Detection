@@ -28,7 +28,7 @@ This project is a proof-of-concept for a real-time fraud detection system. It us
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-github-username/real-time-fraud-detection.git](https://github.com/your-github-username/real-time-fraud-detection.git)
+    git clone [https://github.com/dabrahmbhatt/real-time-fraud-detection.git](https://github.com/dabrahmbhatt/real-time-fraud-detection.git)
     cd real-time-fraud-detection
     ```
 
@@ -53,4 +53,5 @@ When a fraudulent transaction is detected, you will see an alert like this in th
 ```
 *** ALERT: Potential Fraudulent Activity Detected! ***
       timestamp      amount  is_international  is_fraud
+
 2  1678886400.0     3450.78                 1         1
